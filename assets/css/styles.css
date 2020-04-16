@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+
+.col-md-5{
+	float:left;
+}
+
+.col-12.people > img {
+  height: 48px;
+  margin-bottom: 7px;
+  margin-top: 7px;
+}
+
